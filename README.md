@@ -2,6 +2,8 @@
 
 This is a simple example of how to create a scheduled lambda function using different methods.
 
+After the lambda function is created, the triggering history of the lambda can be examined from the Log Group that matches the function name via CloudWatch.
+
 ## Methods
 
 - [Hands-On (AWS CLI)](./hands-on)
