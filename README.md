@@ -41,3 +41,7 @@ After the lambda function is created, the triggering history of the lambda can b
     ├── main.go
     └── main.tf
 ```
+
+
+## Sample Monitoring
+![image](https://github.com/user-attachments/assets/db21c522-6c6c-4f01-82d6-587c933967b0)
