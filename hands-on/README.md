@@ -38,5 +38,5 @@ aws lambda create-function --function-name myFunction \
 ```bash
 aws lambda invoke --function-name myFunction \
 --cli-binary-format raw-in-base64-out \
---payload '{"name": "John"}' output.txt
+--payload fileb://../events/event.json output.txt
 ```
